@@ -10,3 +10,12 @@
 ![技能栈脑图预览图](https://github.com/shixinke/openresty-skill-stack/blob/master/static/images/openresty-skill-stack-map.png)
 
 
+##author
+
+author : shixinke
+
+email:ishixinke@qq.com  ishixinke@gmail.com
+
+website:http://www.shixinke.com
+
+
